@@ -11,7 +11,7 @@ spring JPA 공부를 위한 클론 프로젝트
 
 </br>
     
-    Framework: Spring, Java
+    Framework: Java Spring springboot JPA 
     Database: H2
 
 </br>
