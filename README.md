@@ -2,6 +2,10 @@
 
 ## 1. Introduction
 spring JPA 공부를 위한 클론 프로젝트
+</br>
+
+![image](https://github.com/peannut1998/studyjpa/assets/112597929/8ad45ca2-700e-4c21-9442-5d708385de01)
+
 
 ## 2. Setup
 
@@ -24,9 +28,14 @@ spring JPA 공부를 위한 클론 프로젝트
       -상품 주문시 배송 정보를 입력할 수 있다.
 
 ## 4. 작동 예
-![image](https://github.com/peannut1998/studyjpa/assets/112597929/ecf3d27e-423b-468d-8ffe-644e750f8980)
+회원가입
+</br>
 ![image](https://github.com/peannut1998/studyjpa/assets/112597929/9d03a255-ab14-4ba6-9a11-bab3bde97f1b)
+회원 목록 조회
+</br>
 ![image](https://github.com/peannut1998/studyjpa/assets/112597929/042b33ed-7e19-41bd-840e-4af546a6c5dd)
+상품 주문
+</br>
 ![image](https://github.com/peannut1998/studyjpa/assets/112597929/4837024f-183a-4ccb-b285-ac0606701d11)
 
 
