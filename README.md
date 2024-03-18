@@ -26,6 +26,7 @@ spring JPA 공부를 위한 클론 프로젝트
 ## 4. 작동 예
 ![image](https://github.com/peannut1998/studyjpa/assets/112597929/ecf3d27e-423b-468d-8ffe-644e750f8980)
 ![image](https://github.com/peannut1998/studyjpa/assets/112597929/9d03a255-ab14-4ba6-9a11-bab3bde97f1b)
+![image](https://github.com/peannut1998/studyjpa/assets/112597929/042b33ed-7e19-41bd-840e-4af546a6c5dd)
 ![image](https://github.com/peannut1998/studyjpa/assets/112597929/4837024f-183a-4ccb-b285-ac0606701d11)
 
 
